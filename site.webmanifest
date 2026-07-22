@@ -1,0 +1,23 @@
+{
+  "name": "Informatyk Kórnik",
+  "short_name": "Informatyk Kórnik",
+  "description": "Profesjonalny serwis komputerów, laptopów oraz sieci w Kórniku i okolicach.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f14",
+  "theme_color": "#0b0f14",
+  "lang": "pl",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
