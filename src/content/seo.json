@@ -1,0 +1,70 @@
+{
+  "home": {
+    "title": "Serwis telefonów Kórnik | Naprawa iPhone i smartfonów",
+    "description": "Serwis telefonów w Kórniku. Naprawa iPhone, Samsung, Xiaomi i innych smartfonów. Wyświetlacze, baterie, tylne szybki i ładowanie.",
+    "h1": "Serwis telefonów Kórnik",
+    "canonical": "https://serwis-gsm-kornik.pl",
+    "ogTitle": "",
+    "ogDescription": "",
+    "ogImage": "",
+    "index": true
+  },
+  "pages": {
+    "naprawa-telefonow-kornik": {
+      "title": "Naprawa telefonów Kórnik | Serwis GSM",
+      "description": "Naprawa telefonów w Kórniku i okolicach. iPhone, Samsung, Xiaomi — wyświetlacze, baterie, ładowanie. Kontakt 24/7.",
+      "h1": "Naprawa telefonów Kórnik",
+      "canonical": "https://serwis-gsm-kornik.pl/naprawa-telefonow-kornik",
+      "index": true
+    },
+    "serwis-iphone-kornik": {
+      "title": "Serwis iPhone Kórnik | Naprawa Apple",
+      "description": "Serwis iPhone w Kórniku. Wymiana baterii, wyświetlacza, tylnej szybki i naprawa ładowania. Lokalny serwis GSM.",
+      "h1": "Serwis iPhone Kórnik",
+      "canonical": "https://serwis-gsm-kornik.pl/serwis-iphone-kornik",
+      "index": true
+    },
+    "naprawa-samsung-kornik": {
+      "title": "Naprawa Samsung Kórnik | Serwis Galaxy",
+      "description": "Naprawa telefonów Samsung w Kórniku. Ekrany, baterie, aparaty i gniazda ładowania. Możliwy odbiór urządzenia.",
+      "h1": "Naprawa Samsung Kórnik",
+      "canonical": "https://serwis-gsm-kornik.pl/naprawa-samsung-kornik",
+      "index": true
+    },
+    "naprawa-xiaomi-kornik": {
+      "title": "Naprawa Xiaomi Kórnik | Redmi i POCO",
+      "description": "Naprawa Xiaomi, Redmi i POCO w Kórniku. Wyświetlacze, baterie, tylne szybki i diagnostyka.",
+      "h1": "Naprawa Xiaomi Kórnik",
+      "canonical": "https://serwis-gsm-kornik.pl/naprawa-xiaomi-kornik",
+      "index": true
+    },
+    "wymiana-wyswietlacza-kornik": {
+      "title": "Wymiana wyświetlacza Kórnik | Ekran telefonu",
+      "description": "Wymiana wyświetlacza telefonu w Kórniku. iPhone, Samsung, Xiaomi — wycena przed naprawą.",
+      "h1": "Wymiana wyświetlacza Kórnik",
+      "canonical": "https://serwis-gsm-kornik.pl/wymiana-wyswietlacza-kornik",
+      "index": true
+    },
+    "wymiana-baterii-kornik": {
+      "title": "Wymiana baterii Kórnik | iPhone i Android",
+      "description": "Wymiana baterii w telefonie — Kórnik i okolice. iPhone, Samsung, Xiaomi. Orientacyjna cena od 149 zł.",
+      "h1": "Wymiana baterii Kórnik",
+      "canonical": "https://serwis-gsm-kornik.pl/wymiana-baterii-kornik",
+      "index": true
+    },
+    "wymiana-tylnej-szybki-kornik": {
+      "title": "Wymiana tylnej szybki Kórnik",
+      "description": "Wymiana tylnej szybki w iPhone i innych smartfonach. Serwis GSM Kórnik — wycena przed pracą.",
+      "h1": "Wymiana tylnej szybki Kórnik",
+      "canonical": "https://serwis-gsm-kornik.pl/wymiana-tylnej-szybki-kornik",
+      "index": true
+    },
+    "naprawa-gniazda-ladowania-kornik": {
+      "title": "Naprawa gniazda ładowania Kórnik",
+      "description": "Naprawa USB-C i Lightning w Kórniku. Czyszczenie portu i wymiana gniazda ładowania.",
+      "h1": "Naprawa gniazda ładowania Kórnik",
+      "canonical": "https://serwis-gsm-kornik.pl/naprawa-gniazda-ladowania-kornik",
+      "index": true
+    }
+  }
+}

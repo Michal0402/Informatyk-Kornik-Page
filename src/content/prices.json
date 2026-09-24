@@ -1,0 +1,65 @@
+[
+  {
+    "id": "diagnostyka-telefonu",
+    "name": "Diagnostyka telefonu",
+    "priceType": "from",
+    "price": "49",
+    "currency": "PLN",
+    "visible": true,
+    "order": 1
+  },
+  {
+    "id": "czyszczenie-portu",
+    "name": "Czyszczenie portu ładowania",
+    "priceType": "from",
+    "price": "59",
+    "currency": "PLN",
+    "visible": true,
+    "order": 2
+  },
+  {
+    "id": "wymiana-baterii",
+    "name": "Wymiana baterii",
+    "priceType": "from",
+    "price": "149",
+    "currency": "PLN",
+    "visible": true,
+    "order": 3
+  },
+  {
+    "id": "wymiana-szybki-aparatu",
+    "name": "Wymiana szybki aparatu",
+    "priceType": "from",
+    "price": "99",
+    "currency": "PLN",
+    "visible": true,
+    "order": 4
+  },
+  {
+    "id": "wymiana-gniazda",
+    "name": "Wymiana gniazda ładowania",
+    "priceType": "from",
+    "price": "129",
+    "currency": "PLN",
+    "visible": true,
+    "order": 5
+  },
+  {
+    "id": "wymiana-wyswietlacza",
+    "name": "Wymiana wyświetlacza",
+    "priceType": "quote",
+    "price": "",
+    "currency": "PLN",
+    "visible": true,
+    "order": 6
+  },
+  {
+    "id": "wymiana-tylnej-szybki",
+    "name": "Wymiana tylnej szybki",
+    "priceType": "quote",
+    "price": "",
+    "currency": "PLN",
+    "visible": true,
+    "order": 7
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wymiana-wyswietlacza",
+    "title": "Wymiana wyświetlacza",
+    "shortDescription": "Zbite szkło, problemy z dotykiem, brak obrazu i uszkodzone ekrany.",
+    "slug": "wymiana-wyswietlacza-kornik",
+    "icon": "smartphone",
+    "visible": true,
+    "featured": true,
+    "order": 1
+  },
+  {
+    "id": "wymiana-baterii",
+    "title": "Wymiana baterii",
+    "shortDescription": "Szybkie rozładowywanie, wyłączanie telefonu i zużyta bateria.",
+    "slug": "wymiana-baterii-kornik",
+    "icon": "battery",
+    "visible": true,
+    "featured": true,
+    "order": 2
+  },
+  {
+    "id": "wymiana-tylnej-szybki",
+    "title": "Wymiana tylnej szybki",
+    "shortDescription": "Naprawa pękniętego szkła tylnego panelu.",
+    "slug": "wymiana-tylnej-szybki-kornik",
+    "icon": "shield",
+    "visible": true,
+    "featured": true,
+    "order": 3
+  },
+  {
+    "id": "naprawa-aparatow",
+    "title": "Naprawa aparatów",
+    "shortDescription": "Szybki aparatów, moduły kamer oraz problemy z ostrością i obrazem.",
+    "slug": "naprawa-aparatow-kornik",
+    "icon": "camera",
+    "visible": true,
+    "featured": true,
+    "order": 4
+  },
+  {
+    "id": "gniazda-ladowania",
+    "title": "Gniazda ładowania",
+    "shortDescription": "USB-C, Lightning, brak ładowania i problemy z połączeniem przewodowym.",
+    "slug": "naprawa-gniazda-ladowania-kornik",
+    "icon": "plug",
+    "visible": true,
+    "featured": true,
+    "order": 5
+  },
+  {
+    "id": "diagnostyka",
+    "title": "Diagnostyka telefonu",
+    "shortDescription": "Telefon nie uruchamia się, restartuje, nie ładuje lub działa nieprawidłowo.",
+    "slug": "diagnostyka-telefonu-kornik",
+    "icon": "search",
+    "visible": true,
+    "featured": true,
+    "order": 6
+  }
+]

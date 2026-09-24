@@ -1,0 +1,51 @@
+[
+  {
+    "id": "koszt-wyswietlacza",
+    "question": "Ile kosztuje wymiana wyświetlacza?",
+    "answer": "Cena zależy od konkretnego modelu oraz rodzaju zastosowanego ekranu.",
+    "visible": true,
+    "order": 1
+  },
+  {
+    "id": "baterie-iphone",
+    "question": "Czy wymieniasz baterie w iPhone?",
+    "answer": "Tak. Wymiana baterii jest możliwa w wielu modelach iPhone.",
+    "visible": true,
+    "order": 2
+  },
+  {
+    "id": "samsung-xiaomi",
+    "question": "Czy naprawiasz Samsung i Xiaomi?",
+    "answer": "Tak. Obsługiwanych jest wiele modeli Samsung, Xiaomi oraz innych producentów.",
+    "visible": true,
+    "order": 3
+  },
+  {
+    "id": "tylna-szybka",
+    "question": "Czy wymieniasz tylną szybkę?",
+    "answer": "Tak, w obsługiwanych modelach.",
+    "visible": true,
+    "order": 4
+  },
+  {
+    "id": "odbior",
+    "question": "Czy możliwy jest odbiór telefonu?",
+    "answer": "Tak. Na terenie Kórnika i okolic można ustalić odbiór urządzenia.",
+    "visible": true,
+    "order": 5
+  },
+  {
+    "id": "czas-naprawy",
+    "question": "Ile trwa naprawa?",
+    "answer": "Termin zależy od usterki oraz dostępności części.",
+    "visible": true,
+    "order": 6
+  },
+  {
+    "id": "wycena",
+    "question": "Czy przed naprawą otrzymam wycenę?",
+    "answer": "Przy większych pracach przewidywany koszt ustalany jest przed wykonaniem naprawy.",
+    "visible": true,
+    "order": 7
+  }
+]

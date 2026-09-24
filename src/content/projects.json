@@ -1,0 +1,17 @@
+[
+  {
+    "id": "przyklad-ukryty",
+    "brand": "Apple",
+    "model": "iPhone 13 Pro",
+    "title": "Wymiana tylnej szybki",
+    "category": "tylne-szybki",
+    "description": "Wymiana uszkodzonego tylnego szkła.",
+    "coverImage": "",
+    "images": [],
+    "location": "Kórnik",
+    "date": "",
+    "visible": false,
+    "featured": false,
+    "slug": ""
+  }
+]

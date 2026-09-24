@@ -1,0 +1,6 @@
+{
+  "allowIndexing": true,
+  "allowAllBots": true,
+  "disallow": ["/admin/", "/api/"],
+  "sitemap": "https://serwis-gsm-kornik.pl/sitemap.xml"
+}

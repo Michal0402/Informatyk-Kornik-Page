@@ -1,0 +1,12 @@
+[
+  { "id": "wszystkie", "name": "Wszystkie", "slug": "wszystkie", "visible": true, "order": 0 },
+  { "id": "iphone", "name": "iPhone", "slug": "iphone", "visible": true, "order": 1 },
+  { "id": "samsung", "name": "Samsung", "slug": "samsung", "visible": true, "order": 2 },
+  { "id": "xiaomi", "name": "Xiaomi", "slug": "xiaomi", "visible": true, "order": 3 },
+  { "id": "wyswietlacze", "name": "Wyświetlacze", "slug": "wyswietlacze", "visible": true, "order": 4 },
+  { "id": "baterie", "name": "Baterie", "slug": "baterie", "visible": true, "order": 5 },
+  { "id": "tylne-szybki", "name": "Tylne szybki", "slug": "tylne-szybki", "visible": true, "order": 6 },
+  { "id": "aparaty", "name": "Aparaty", "slug": "aparaty", "visible": true, "order": 7 },
+  { "id": "ladowanie", "name": "Ładowanie", "slug": "ladowanie", "visible": true, "order": 8 },
+  { "id": "pozostale", "name": "Pozostałe", "slug": "pozostale", "visible": true, "order": 9 }
+]
